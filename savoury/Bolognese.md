@@ -43,7 +43,7 @@
    - **Deglaze with Wine:** Pour in red wine, scraping up browned bits from the pan. Allow the wine to reduce for 2-3 minutes.
    - **Add Tomatoes:** Stir in chopped tomatoes and passata. Mix well to combine.
    - **Simmer:** Bring the mixture to a simmer, then lower the heat. Add extra red wine here to enhance flavour, taste depending.  Allow to simmer for 30-40 minutes, stirring occasionally to prevent sticking. This time allows the flavours to meld together.
-   - **Cook Pasta** Whilst sauce is simmering, bring a pan of water to boil, add in the pasta and cook for 8-10 minutes (or whatever is specified for your choice of pasta) quickly. 
+   - **Cook Pasta:** Whilst sauce is simmering, bring a pan of water to boil, add in the pasta and cook for 8-10 minutes (or whatever is specified for your choice of pasta) quickly. 
 5. **Finish and Serve:**
    - **Add Basil:** Stir in fresh basil before serving. This adds a fresh flavour to the sauce.
    - **Adjust Seasoning:** Taste and season with salt and pepper as needed.
