@@ -17,17 +17,17 @@ A clear, step-by-step timing guide for chicken fajitas cooked in a stainless ste
 
 ## Cooking Steps
 
-| Step | Time      | What to Do                                                     |
-| ---: | --------- | -------------------------------------------------------------- |
-|    1 | 0 min     | Preheat pan on **medium-high** for 1–2 minutes, then add oil   |
-|    2 | 2 min     | Add chicken in a single layer. **Do not stir** for 3–4 minutes |
-|    3 | 5–6 min   | Stir chicken and cook another 2–3 minutes until golden         |
-|    4 | 8–9 min   | Push chicken to one side. Add **baby corn**                    |
-|    5 | 10–11 min | Stir baby corn with chicken. Cook 2–3 minutes                  |
-|    6 | 12–13 min | Add **peppers**. Stir and cook 2 minutes                       |
-|    7 | 14–15 min | Add **onions**. Stir and cook 2 minutes                        |
-|    8 | 16–17 min | Add sweet chilli sauce and stir to coat                        |
-|    9 | 18–19 min | Cook 1–2 minutes until everything is hot and glossy            |
+| Step | What to Do                                                     |
+| ---: | -------------------------------------------------------------- |
+|    1 | Preheat pan on **medium-high** for 1–2 minutes, then add oil   |
+|    2 | Add chicken in a single layer. **Do not stir** for 3–4 minutes |
+|    3 | Stir chicken and cook another 2–3 minutes until golden         |
+|    4 | Push chicken to one side. Add **baby corn**                    |
+|    5 | Stir baby corn with chicken. Cook 2–3 minutes                  |
+|    6 | Add **peppers**. Stir and cook 2 minutes                       |
+|    7 | Add **onions**. Stir and cook 2 minutes                        |
+|    8 | Add sweet chilli sauce and stir to coat                        |
+|    9 | Cook 1–2 minutes until everything is hot and glossy            |
 
 ---
 
