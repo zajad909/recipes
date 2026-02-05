@@ -1,4 +1,4 @@
-## Bolognese - Dom’s own
+# Bolognese - Dom’s own
 
 ## Ingredients
 
@@ -17,18 +17,19 @@
 
 ### Extras:
 
-- 1 tablespoon of olive or vegetable oil
-- A bit of fresh basil, chopped
+- 1 tablespoon of vegetable oil
+- 2-5 leaves of fresh basil, rolled up and chopped lengthways
 - 1 teaspoon smoked paprika
 - 1 teaspoon dried Italian herbs
 - Salt and pepper to taste
+- Your choice of pasta - Rigatoni recommended! 
 
 ## Method
 
 1. **Preparation:**
-   - Chop the onions and peppers.
+   - Chop the onions and peppers into small chunks. 
    - Grate the carrots.
-   - Chop the fresh basil.
+   - Layer the basil and Roll into a tight tube, slice lengthways.  
 2. **Heating the Pan:**
    - Heat your sauté pan over medium heat until the oil shimmers slightly.
    - Use the water test: a drop should sizzle.
@@ -42,6 +43,7 @@
    - **Deglaze with Wine:** Pour in red wine, scraping up browned bits from the pan. Allow the wine to reduce for 2-3 minutes.
    - **Add Tomatoes:** Stir in chopped tomatoes and passata. Mix well to combine.
    - **Simmer:** Bring the mixture to a simmer, then lower the heat. Add extra red wine here to enhance flavour, taste depending.  Allow to simmer for 30-40 minutes, stirring occasionally to prevent sticking. This time allows the flavours to meld together.
+   - **Cook Pasta** Whilst sauce is simmering, bring a pan of water to boil, add in the pasta and cook for 8-10 minutes (or whatever is specified for your choice of pasta) quickly. 
 5. **Finish and Serve:**
    - **Add Basil:** Stir in fresh basil before serving. This adds a fresh flavour to the sauce.
    - **Adjust Seasoning:** Taste and season with salt and pepper as needed.
@@ -49,7 +51,4 @@
 
 ## Tips
 
-- Your pan can withstand high temperatures up to 260°C.
-- Ensure even heat distribution and avoid unnecessary high heat.
-- Use CoolTouch® handles for safety.
 - Allow the sauce to rest for a few minutes off the heat before serving for enhanced flavour.
