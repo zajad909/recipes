@@ -7,7 +7,7 @@
 - 500g of 5% fat minced beef
 - 2-3 small green/brown onions
 - 2-4 sweet pointed red peppers
-- 2 long carrots (grated)
+- 2 long carrots (grated fine)
 
 ### Sauce
 
@@ -28,7 +28,7 @@
 
 1. **Preparation:**
    - Chop the onions and peppers into small chunks. 
-   - Grate the carrots.
+   - Grate the carrots - using the finest grate.
    - Layer the basil and Roll into a tight tube, slice lengthways.  
 2. **Heating the Pan:**
    - Heat your sauté pan over medium heat until the oil shimmers slightly.

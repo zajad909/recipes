@@ -1,85 +1,64 @@
-# Chicken Fajitas Recipe – Timing Guide
+# Chicken Fajitas
 
-A clear, step-by-step timing guide for chicken fajitas cooked in a stainless steel pan.
+## Ingredients
 
----
+### Proteins
 
-## Prep (5 minutes)
+- 4 chicken breasts, sliced into thin strips (about 1cm thick)
 
-- Slice **4 chicken breasts** into thin strips (about 1 cm thick)
-- Slice **2 red peppers** into strips
-- Slice **3 onions** into strips
-- Prepare **baby corn**
-  - Slice lengthways into thick strips if whole
-  - If already sliced, no prep needed
+### Vegetables
 
----
+- 2 red peppers, sliced into strips
+- 3 onions, sliced into strips
+- 2 packets baby corn
 
-## Cooking Steps
+### Extras
 
-| Step | What to Do                                                     |
-| ---: | -------------------------------------------------------------- |
-|    1 | Preheat pan on **medium-high** for 1–2 minutes, then add oil   |
-|    2 | Add chicken in a single layer. **Do not stir** for 3–4 minutes |
-|    3 | Stir chicken and cook another 2–3 minutes until golden         |
-|    4 | Push chicken to one side. Add **baby corn**                    |
-|    5 | Stir baby corn with chicken. Cook 2–3 minutes                  |
-|    6 | Add **peppers**. Stir and cook 2 minutes                       |
-|    7 | Add **onions**. Stir and cook 2 minutes                        |
-|    8 | Add sweet chilli sauce and stir to coat                        |
-|    9 | Cook 1–2 minutes until everything is hot and glossy            |
+- 15ml olive oil (1 tablespoon)
+- Sweet chilli sauce to taste
+- Cheese for topping
+- Flour tortillas for serving
 
----
+## Method
 
-## Assembly (2 minutes)
+1. **Prep the Ingredients:**
+   - Slice chicken breasts into thin strips (about 1cm thick).
+   - Slice peppers and onions into strips.
+   - Prepare baby corn (slice lengthways if whole).
 
-- Warm the wraps
-- Spoon the fajita mixture into each wrap
-- Top with cheese
-- Serve immediately
+2. **Heat the Pan:**
+   - Preheat pan on medium-high for 1–2 minutes until hot.
+   - Add oil and let it shimmer.
 
----
+3. **Cook the Chicken:**
+   - Add chicken in a single layer.
+   - Do not stir for 3–4 minutes to allow browning.
+   - Stir and cook another 2–3 minutes until golden.
 
-## Total Cooking Time
+4. **Add Baby Corn:**
+   - Push chicken to one side.
+   - Add baby corn and stir together.
+   - Cook 2–3 minutes until tender.
 
-**Approximately 20–22 minutes**
+5. **Add Peppers and Onions:**
+   - Add peppers and stir. Cook 2 minutes.
+   - Add onions and stir. Cook 2 minutes.
 
----
+6. **Finish with Sauce:**
+   - Add sweet chilli sauce and stir to coat everything.
+   - Cook 1–2 minutes until hot and glossy.
 
-## Cooking Tips
+7. **Serve:**
+   - Warm the tortillas.
+   - Spoon the fajita mixture into each tortilla.
+   - Top with cheese.
+   - Serve immediately.
 
-- Baby corn goes in first — it needs the most heat and time
-- Peppers should soften but still have bite
-- Onions go in last to stay sweet, not mushy
-- If the pan cools after adding veg, let it sit briefly before stirring
+## Tips
 
----
-
-## Pan Notes
-
-**ProCook Elite Signature Tri-Ply Sauté Pan – 26cm**
-
-### Heat Management
-
-- Uncoated tri-ply stainless steel — excellent heat retention
-- Use **medium-high**, not full power
-- Avoid boost settings; the pan holds heat very efficiently
-- Preheat for **1–2 minutes only**
-
-### Why This Pan Works Well
-
-- **3.2L capacity** prevents overcrowding
-- **Rivetless interior** makes cleanup easier
-- **Oven safe to 260°C** if extra colour is needed
-- **Dishwasher safe**
-
----
-
-## Salt Warning
-
-⚠️ **Never add salt directly to a cold stainless steel pan.**  
-Always season food once it’s in the pan to avoid pitting.
-
----
-
-Enjoy your fajitas! 🌯
+- Total cooking time is approximately 18–20 minutes.
+- Baby corn goes in first as it needs the most time.
+- Peppers should soften but still have bite.
+- Onions go in last to stay sweet, not mushy.
+- Don't overcrowd the pan — let ingredients char before stirring.
+- Never add salt directly to a cold stainless steel pan; always season once food is in the pan to avoid pitting.
