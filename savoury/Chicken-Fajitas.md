@@ -23,8 +23,8 @@
 
 1. **Prep the Ingredients:**
    - Slice chicken breasts into thin strips (about 1cm thick).
-   - Slice peppers and onions into strips.
-   - Prepare baby corn (slice lengthways if whole).
+   - Slice peppers and onions into cubes.
+   - Prepare baby corn (slice lengthways if whole and then cut into reasonably sized chunks).
 
 2. **Heat the Pan:**
    - Preheat pan on medium-high for 1–2 minutes until hot.
