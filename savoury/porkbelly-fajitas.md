@@ -42,10 +42,11 @@
    - Slice peppers and onions into strips.
    - Prepare baby corn (slice lengthways if whole).
 
-   **Cook the PorkBelly:**
+2.    **Cook the PorkBelly:**
+   
+   - 
 
-
-2. **Heat the Pan:**
+3. **Heat the Pan:**
    - Preheat pan on medium-high for 1–2 minutes until hot.
    - Add oil and let it shimmer.
 
