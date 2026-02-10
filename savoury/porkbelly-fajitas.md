@@ -2,41 +2,55 @@
 
 ## Ingredients
 
-### Proteins
+### Meat
 
-- 4 chicken breasts, sliced into thin strips (about 1cm thick)
+- 300g Sliced Pork Belly
 
 ### Vegetables
 
-- 2 red peppers, sliced into strips
-- 3 onions, sliced into strips
-- 2 packets baby corn
+- 1-2 Red Peppers
+- 1-3 Shallots
+- 1 Packet Baby Corn
+
+### Sauce/Marinade
+
+- Honey
+- Soy Sauce
+- Sesame Seeds
 
 ### Extras
 
-- 15ml olive oil (1 tablespoon)
-- Sweet chilli sauce to taste
+- 15ml Olive Oil (1 tablespoon)
 - Cheese for topping
-- Flour tortillas for serving
+- Large or small Tortilla Wraps
 
-## Method
+## Method Part 1 - Day before cooking
+
+1. **Make the marinade**
+    - 16-24 hrs before you want to eat you need to prepare
+    - Mix together the Honey and soy sauce 
+    - Quantity is subjective to amount of pork belly
+
+2. **Marinade the Pork Belly**
+    - Add the Pork belly to a bowl (Preferably glass)
+    - Pour the sauce over the top
+    - Using a fork, stab holes into both sides of the pork belly to make sure the sauce penetrates
+
+## Method Part 2 - Cooking day
 
 1. **Prep the Ingredients:**
-   - Slice chicken breasts into thin strips (about 1cm thick).
    - Slice peppers and onions into strips.
    - Prepare baby corn (slice lengthways if whole).
 
    **Cook the PorkBelly:**
-   
+
 
 2. **Heat the Pan:**
    - Preheat pan on medium-high for 1–2 minutes until hot.
    - Add oil and let it shimmer.
 
 3. **Cook the PorkBelly:**
-   - Add chicken in a single layer.
-   - Do not stir for 3–4 minutes to allow browning.
-   - Stir and cook another 2–3 minutes until golden.
+    -
 
 4. **Add Baby Corn:**
    - Push chicken to one side.
