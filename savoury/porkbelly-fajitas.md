@@ -1,10 +1,10 @@
-# Chicken Fajitas
+# Pork Belly Fajitas
 
 ## Ingredients
 
 ### Proteins
 
-- 4 chicken breasts, sliced into thin strips (about 1cm thick)
+- 450g pork belly, sliced into thin strips or bite-sized pieces
 
 ### Vegetables
 
@@ -12,7 +12,7 @@
 - 3 onions, sliced into strips
 - 2 packets baby corn
 
-### Extras
+### Extras:
 
 - 15ml olive oil (1 tablespoon)
 - Sweet chilli sauce to taste
@@ -22,24 +22,20 @@
 ## Method
 
 1. **Prep the Ingredients:**
-   - Slice chicken breasts into thin strips (about 1cm thick).
+   - Slice pork belly into thin strips or bite-sized pieces.
    - Slice peppers and onions into strips.
    - Prepare baby corn (slice lengthways if whole).
-
-   **Cook the PorkBelly:**
-   
-
 2. **Heat the Pan:**
    - Preheat pan on medium-high for 1–2 minutes until hot.
    - Add oil and let it shimmer.
 
-3. **Cook the PorkBelly:**
-   - Add chicken in a single layer.
+3. **Cook the Pork Belly:**
+   - Add pork belly in a single layer.
    - Do not stir for 3–4 minutes to allow browning.
-   - Stir and cook another 2–3 minutes until golden.
+   - Stir and cook another 2–3 minutes until golden and cooked through.
 
 4. **Add Baby Corn:**
-   - Push chicken to one side.
+   - Push pork belly to one side.
    - Add baby corn and stir together.
    - Cook 2–3 minutes until tender.
 

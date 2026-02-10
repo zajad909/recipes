@@ -19,7 +19,7 @@
 - 50g bacon/lardons, diced
 - 2 cloves garlic, minced
 
-### Extras
+### Extras:
 
 - 15ml olive oil (1 tablespoon)
 - Salt and black pepper to taste

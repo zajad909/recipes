@@ -18,7 +18,7 @@
 - 1 heaped tsp ginger paste
 - 1 tbsp white wine vinegar
 
-### Extras
+### Extras:
 
 - Sesame seeds for garnish
 - Jasmine rice for serving

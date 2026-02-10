@@ -12,7 +12,7 @@
 - 3 onions, sliced into strips
 - 2 packets baby corn
 
-### Extras
+### Extras:
 
 - 15ml olive oil (1 tablespoon)
 - Sweet chilli sauce to taste

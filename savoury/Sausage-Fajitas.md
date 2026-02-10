@@ -12,18 +12,18 @@
 - 3 onions, sliced into strips
 - 2 packets baby corn
 
-### Extras
+### Extras:
 
 - 15ml olive oil (1 tablespoon)
-- Homemade teriyaki sauce (see below)
 - Cheese for topping
 - Flour tortillas for serving
 - Optional: sesame seeds for garnish
 
-## Homemade Teriyaki Sauce
+### Sauce
 
 - 60ml soy sauce
 - 60ml honey
+- Optional: 1 teaspoon toasted sesame oil
 - Optional: sesame seeds for garnish
 
 Mix soy sauce and honey in a small bowl (1:1 ratio). If using, stir in sesame oil.
@@ -36,8 +36,9 @@ Mix soy sauce and honey in a small bowl (1:1 ratio). If using, stir in sesame oi
    - Prepare baby corn (slice lengthways if whole and then cut into reasonably sized chunks).
 
 2. **Heat the Pan:**
-   - Preheat a large pan on medium-high for 1–2 minutes until hot.
-   - Add oil and let it shimmer.
+   - Heat the stainless steel pan over medium heat until the oil shimmers slightly.
+   - Use the water test: a drop should sizzle.
+   - Alternatively, place the end of a wooden spoon in the oil; bubbles should form.
 
 3. **Cook the Sausage Rounds:**
    - Add sausage slices in a single layer.

@@ -34,6 +34,7 @@
    - Heat your sauté pan over medium heat until the oil shimmers slightly.
    - Use the water test: a drop should sizzle.
    - Alternatively, place the end of a wooden spoon in the oil; bubbles should form.
+
 3. **Cooking:**
    - **Brown the Beef:** Add the minced beef to the pan. Cook until browned, breaking it up with a spatula (5-7 minutes).
    - **Remove Excess Fat:** If there’s excess fat, drain it off.
@@ -44,6 +45,7 @@
    - **Add Tomatoes:** Stir in chopped tomatoes and passata. Mix well to combine.
    - **Simmer:** Bring the mixture to a simmer, then lower the heat. Add extra red wine here to enhance flavour, taste depending.  Allow to simmer for 30-40 minutes, stirring occasionally to prevent sticking. This time allows the flavours to meld together.
    - **Cook Pasta:** Whilst sauce is simmering, bring a pan of water to boil, add in the pasta and cook for 8-10 minutes (or whatever is specified for your choice of pasta) quickly. 
+   
 5. **Finish and Serve:**
    - **Add Basil:** Stir in fresh basil before serving. This adds a fresh flavour to the sauce.
    - **Adjust Seasoning:** Taste and season with salt and pepper as needed.

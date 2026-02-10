@@ -1,7 +1,5 @@
 # Tortilla Pizza
 
-*Serves 2*
-
 ## Ingredients
 
 ### Sauce Base
