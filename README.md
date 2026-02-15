@@ -1,10 +1,9 @@
 # <img src="./icons/osrs-cooking.png" width="30" height="30" style="vertical-align: middle;" alt="beta icon" /> Dom's Recipes Repo!
 
-A collection of my favourite and custom recipes
+A collection of my favourite and some custom recipes
 
 Split between savoury/sweet and then by type of food and ingredients!
 
----
 
 ## Index
 
@@ -42,4 +41,3 @@ Split between savoury/sweet and then by type of food and ingredients!
 ## Recipe Template
 
 Need to add a new recipe? Use the [template.md](template.md) as a starting point!
-
