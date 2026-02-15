@@ -175,6 +175,11 @@ function genSweetSection(): string {
 }
 
 const newIndex = `## Index\n\n${genSavSection()}${genSweetSection()}---`;
-const newReadme = readme.replace(/## Index[\s\S]*?---\n\n## Recipe Template/, `${newIndex}\n\n## Recipe Template`);
-fs.writeFileSync(readmePath, newReadme, 'utf8');
-console.log('README.md regenerated — index updated.');
+// match any heading level for the Index section (e.g. "# Index" or "## Index")
+const newReadme = readme.replace(/^#{1,6}\s*Index[\s\S]*?---\n\n## Recipe Template/m, `${newIndex}\n\n## Recipe Template`);
+if (newReadme === readme) {
+  console.log('README.md unchanged — index already up to date.');
+} else {
+  fs.writeFileSync(readmePath, newReadme, 'utf8');
+  console.log('README.md regenerated — index updated.');
+}
