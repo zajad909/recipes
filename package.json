@@ -1,0 +1,22 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "A collection of my favourite and some custom recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node scripts/generate-readme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zajad909/recipes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zajad909/recipes/issues"
+  },
+  "homepage": "https://github.com/zajad909/recipes#readme"
+}

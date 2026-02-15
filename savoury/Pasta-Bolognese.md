@@ -1,3 +1,11 @@
+---
+title: "Bolognese"
+category: "savoury"
+tags: ["meat","pasta","beef","bolognese"]
+serves: 4
+time: "60m"
+---
+
 # Bolognese - Dom’s own
 
 ## Ingredients

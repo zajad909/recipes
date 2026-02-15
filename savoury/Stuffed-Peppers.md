@@ -1,3 +1,11 @@
+---
+title: "Stuffed Peppers"
+category: "savoury"
+tags: ["meat","veg","chicken","baked"]
+serves: 4
+time: "25m"
+---
+
 # Stuffed Peppers
 
 ## Ingredients

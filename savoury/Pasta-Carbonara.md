@@ -1,3 +1,11 @@
+---
+title: "Pasta Carbonara"
+category: "savoury"
+tags: ["meat","pasta","bacon","carbonara"]
+serves: 2
+time: "20m"
+---
+
 # Pasta Carbonara
 
 ## Ingredients

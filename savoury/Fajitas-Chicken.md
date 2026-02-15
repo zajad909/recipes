@@ -1,3 +1,11 @@
+---
+title: "Chicken Fajitas"
+category: "savoury"
+tags: ["meat","fajitas","chicken"]
+serves: 4
+time: "20m"
+---
+
 # Chicken Fajitas
 
 ## Ingredients

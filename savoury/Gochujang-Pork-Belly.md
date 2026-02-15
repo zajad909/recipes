@@ -1,3 +1,11 @@
+---
+title: "Gochujang Pork Belly"
+category: "savoury"
+tags: ["meat","pork","gochujang","asian"]
+serves: 2
+time: "30m"
+---
+
 # Gochujang Pork Belly
 
 ## Ingredients

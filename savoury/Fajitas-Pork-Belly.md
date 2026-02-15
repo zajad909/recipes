@@ -1,4 +1,12 @@
-# Chicken Fajitas
+---
+title: "Pork-Belly Fajitas"
+category: "savoury"
+tags: ["meat","fajitas","pork","pork-belly"]
+serves: 2
+time: "2.5h (plus marinade)"
+---
+
+# Pork-Belly Fajitas
 
 ## Ingredients
 

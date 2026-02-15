@@ -1,3 +1,11 @@
+---
+title: "Sausage Fajitas"
+category: "savoury"
+tags: ["meat","fajitas","sausage","pork"]
+serves: 3
+time: "20m"
+---
+
 # Sausage Fajitas
 
 ## Ingredients
