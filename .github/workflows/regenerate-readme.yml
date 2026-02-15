@@ -1,12 +1,9 @@
 name: Regenerate README
 
 on:
-  workflow_dispatch:
-    inputs:
-      branch:
-        description: 'Branch to push changes to'
-        required: false
-        default: 'main'
+  push:
+    branch:
+      - main
 
 permissions:
   contents: write
