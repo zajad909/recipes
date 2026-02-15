@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - '**/*.md'
 
 permissions:
   contents: write
@@ -27,27 +25,17 @@ jobs:
       - name: Run README generator (TypeScript)
         run: npx ts-node --transpile-only ./scripts/generate-readme.ts
 
-      - name: Detect changes
-        id: git-check
-        run: |
-          # detect whether README.md was modified by the generator and set a clean 0/1 output
-          if [ -n "$(git status --porcelain=1 README.md)" ]; then
-            echo "changed=1" >> $GITHUB_OUTPUT
-          else
-            echo "changed=0" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Commit & push (if changed)
-        if: steps.git-check.outputs.changed == '1'
+      - name: Commit & push
         env:
           BRANCH: ${{ github.event.inputs.branch || 'main' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: regenerate README (auto)"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${BRANCH}
-
-      - name: No changes
-        if: steps.git-check.outputs.changed == '0'
-        run: echo "No README changes to commit"
+          # if there are staged changes for README.md, commit & push; otherwise succeed without failing the job
+          if git diff --cached --quiet -- README.md; then
+            echo "No README changes to commit"
+          else
+            git commit -m "chore: regenerate README (auto)"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${BRANCH}
+          fi
