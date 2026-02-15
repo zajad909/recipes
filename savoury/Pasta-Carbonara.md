@@ -12,7 +12,7 @@ time: "20m"
 
 ### Pasta
 
-- 200g whole wheat spaghetti (or any whole grain pasta)
+- 200g spaghetti (or any pasta you prefer)
 
 ### Eggs & Cheese
 
@@ -22,10 +22,11 @@ time: "20m"
 
 ### Vegetables & Meat
 
+- 1 sweet pointed red peppers (bell peppers also work
+- 1-2 shallots OR 1/2 small onion, diced small
+- 50g diced pancetta (bacon or lardons also work but pancetta tastes the best)
 - 75g peas (optional, for added vegetables)
-- 1/2 small onion, diced small
-- 50g bacon/lardons, diced
-- 2 cloves garlic, minced
+- 2 cloves garlic, minced (optional)
 
 ### Extras
 
@@ -36,7 +37,7 @@ time: "20m"
 ## Method
 
 1. **Cook the Pasta:**
-   - Cook the whole wheat spaghetti according to package instructions until al dente.
+   - Cook the pasta according to package instructions until al dente.
    - Reserve 240ml (1 cup) of pasta cooking water before draining.
 
 2. **Prepare the Sauce:**
@@ -45,7 +46,7 @@ time: "20m"
 
 3. **Cook the Bacon:**
    - In a large skillet, heat the olive oil over medium heat.
-   - Add the diced bacon/lardons and cook until crispy.
+   - Add the diced pancetta/bacon/lardons and cook until crispy.
    - Remove from the skillet and set aside.
 
 4. **Sauté Vegetables:**
