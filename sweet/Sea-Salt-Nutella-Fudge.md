@@ -1,3 +1,12 @@
+---
+title: "Sea Salt Nutella Fudge"
+category: sweet
+tags: [fudge, treats]
+description: "Rich fudge with Nutella and sea salt topping"
+serves: "16"
+time: "4h"
+---
+
 # Sea Salt Nutella Fudge
 
 ## Ingredients
