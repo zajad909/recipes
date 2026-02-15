@@ -2,7 +2,7 @@ name: Regenerate README
 
 on:
   push:
-    branch:
+    branches:
       - main
 
 permissions:
@@ -28,10 +28,15 @@ jobs:
       - name: Detect changes
         id: git-check
         run: |
-          echo "changed=$(git status --porcelain | wc -l)" >> $GITHUB_OUTPUT
+          # detect whether README.md was modified by the generator and set a clean 0/1 output
+          if [ -n "$(git status --porcelain=1 README.md)" ]; then
+            echo "changed=1" >> $GITHUB_OUTPUT
+          else
+            echo "changed=0" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit & push (if changed)
-        if: steps.git-check.outputs.changed != '0'
+        if: steps.git-check.outputs.changed == '1'
         env:
           BRANCH: ${{ github.event.inputs.branch || 'main' }}
         run: |
