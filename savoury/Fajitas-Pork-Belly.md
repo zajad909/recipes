@@ -2,6 +2,7 @@
 title: "Pork-Belly Fajitas"
 category: "savoury"
 tags: ["meat","fajitas","pork","pork-belly"]
+description: "Rich pork-belly fajitas with crisp edges"
 serves: 2
 time: "2.5h (plus marinade)"
 ---

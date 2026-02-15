@@ -2,6 +2,7 @@
 title: "Gochujang Pork Belly"
 category: "savoury"
 tags: ["meat","pork","gochujang","asian"]
+description: "Air-fried pork belly with spicy gochujang glaze"
 serves: 2
 time: "30m"
 ---

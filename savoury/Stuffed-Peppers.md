@@ -2,6 +2,7 @@
 title: "Stuffed Peppers"
 category: "savoury"
 tags: ["meat","veg","chicken","baked"]
+description: "Bell peppers stuffed with rice and chicken"
 serves: 4
 time: "25m"
 ---

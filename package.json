@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/zajad909/recipes/issues"
   },
-  "homepage": "https://github.com/zajad909/recipes#readme"
+  "homepage": "https://github.com/zajad909/recipes#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
 }

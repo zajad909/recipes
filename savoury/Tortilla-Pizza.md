@@ -2,6 +2,7 @@
 title: "Tortilla Pizza"
 category: "savoury"
 tags: ["meat","pizza","pepperoni"]
+description: "Quick tortilla pizzas with pepperoni"
 serves: 2
 time: "10m"
 ---

@@ -2,17 +2,20 @@
 title: "Pancakes"
 category: sweet
 tags: [pancakes]
-description: "Recipe template - add your pancake recipe"
+description: "Nice and easy pancakes recipe"
 serves: "4"
 time: "20m"
 ---
 
 # Pancakes
 
-*Add your pancake recipe here*
-
 ## Ingredients
+
+ - 100g plain flour
+ - 
 
 ## Method
 
 ## Tips
+
+

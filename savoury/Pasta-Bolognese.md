@@ -2,6 +2,7 @@
 title: "Bolognese"
 category: "savoury"
 tags: ["meat","pasta","beef","bolognese"]
+description: "Classic pasta sauce with minced beef"
 serves: 4
 time: "60m"
 ---

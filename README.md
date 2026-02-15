@@ -44,7 +44,7 @@ Split between savoury/sweet and then by type of food and ingredients!
 - [Dom's Cookies](sweet/Doms-Cookies.md) - Chocolate chunk cookies with milk and dark chocolate
 
 #### <img src="./icons/pancakes.svg" width="20" height="20" style="vertical-align: middle;" alt="Pancakes icon" /> Pancakes
-- [Pancakes](sweet/Pancakes.md) - Recipe template - add your pancake recipe
+- [Pancakes](sweet/Pancakes.md) - Nice and easy pancakes recipe
 
 #### <img src="./icons/candy.png" width="20" height="20" style="vertical-align: middle;" alt="Treats icon" /> Treats
 - [Sea Salt Nutella Fudge](sweet/Sea-Salt-Nutella-Fudge.md) - Rich fudge with Nutella and sea salt topping

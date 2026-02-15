@@ -2,6 +2,7 @@
 title: "Sausage Fajitas"
 category: "savoury"
 tags: ["meat","fajitas","sausage","pork"]
+description: "Spicy sausage fajitas with peppers, onions and corn"
 serves: 3
 time: "20m"
 ---

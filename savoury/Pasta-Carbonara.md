@@ -2,6 +2,7 @@
 title: "Pasta Carbonara"
 category: "savoury"
 tags: ["meat","pasta","bacon","carbonara"]
+description: "Creamy egg and bacon pasta"
 serves: 2
 time: "20m"
 ---

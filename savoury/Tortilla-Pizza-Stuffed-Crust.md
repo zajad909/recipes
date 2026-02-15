@@ -2,6 +2,7 @@
 title: "Tortilla Pizza — Stuffed Crust"
 category: "savoury"
 tags: ["pizza","tortilla","sausage","quick","snack", "lunch"]
+description: "Quick Tortilla pizzas with sausage/cheese stuffed crust"
 serves: 1
 time: "20m"
 ---

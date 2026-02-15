@@ -2,6 +2,7 @@
 title: "Chicken Fajitas"
 category: "savoury"
 tags: ["meat","fajitas","chicken"]
+description: "Pan-fried chicken fajitas with peppers & onions"
 serves: 4
 time: "20m"
 ---

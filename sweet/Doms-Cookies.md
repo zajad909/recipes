@@ -1,3 +1,12 @@
+---
+title: "Dom's Cookies"
+category: sweet
+tags: [cookies, bake]
+description: "Chocolate chunk cookies with milk and dark chocolate"
+serves: "12"
+time: "30m"
+---
+
 # Dom's Cookies
 
 ## Ingredients
