@@ -29,7 +29,7 @@ Split between savoury/sweet and then by type of food and ingredients!
 - [Sausage Fajitas](savoury/Fajitas-Sausage.md) - Spicy sausage fajitas with peppers
 - [Stuffed Peppers](savoury/Stuffed-Peppers.md) - Bell peppers stuffed with rice and chicken
 - [Tortilla Pizza](savoury/Tortilla-Pizza.md) - Quick tortilla pizzas with pepperoni and jalapeños
-- [Tortilla Pizza — Stuffed Crust](savoury/Tortilla-Pizza-Stuffed-Crust.md) - Quick Tortilla pizzas with sausage/cheese stuffed crust
+- [Tortilla Pizza — Stuffed Crust](savoury/Tortilla-Pizza-Stuffed-Crust.md)
 
 #### <img src="./icons/osrs-cabbage.png" width="20" height="20" style="vertical-align: middle;" alt="Veg icon" /> Veg
 - [Stuffed Peppers](savoury/Stuffed-Peppers.md) - Bell peppers stuffed with rice and chicken
