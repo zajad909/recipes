@@ -5,6 +5,7 @@ type Frontmatter = Partial<{
   title: string;
   category: string;
   tags: string[];
+  description: string;
   serves: string;
   time: string;
 }>;
@@ -51,6 +52,9 @@ function parseFrontmatter(content: string): Frontmatter {
   const timeMatch = body.match(/^\s*time:\s*["']?(.+?)["']?\s*$/m);
   if (timeMatch) fm.time = timeMatch[1].trim();
 
+  const descriptionMatch = body.match(/^\s*description:\s*(?:"([^"]+)"|'([^']+)'|(.+))\s*$/m);
+  if (descriptionMatch) fm.description = (descriptionMatch[1] || descriptionMatch[2] || descriptionMatch[3]).trim().replace(/^"|"$/g, '');
+
   return fm;
 }
 
@@ -79,9 +83,13 @@ function buildItem(dir: string, file: string, title: string, desc: string | null
   return `- [${title}](${dir}/${file})${desc ? ' - ' + desc : ''}`;
 }
 
-function chooseDesc(dir: string, file: string, content: string, descMap: Record<string,string | null>): string | null {
+function chooseDesc(dir: string, file: string, content: string, descMap: Record<string,string | null>, fmDescription?: string | null): string | null {
   const key = `${dir}/${file}`;
-  if (descMap[key]) return descMap[key];
+  // prefer an explicit frontmatter description when provided
+  if (fmDescription && fmDescription.trim()) return fmDescription.trim();
+  // prefer an existing README description if available
+  if (key in descMap && descMap[key]) return descMap[key];
+  // fall back to the first paragraph of the recipe
   const p = firstParagraph(content);
   return p || null;
 }
@@ -93,7 +101,7 @@ function parseFiles(repoRootDir: string, dir: string, files: string[], descMap: 
     const title = fm.title || extractTitle(full) || file.replace(/\.md$/,'');
     const tags = fm.tags || [];
     const category = fm.category || (dir === 'savoury' ? 'savoury' : 'sweet');
-    const desc = chooseDesc(dir, file, full, descMap);
+    const desc = chooseDesc(dir, file, full, descMap, fm.description || null);
     return { dir, file, title, tags, category, desc };
   });
 }
