@@ -25,7 +25,6 @@ time: "10m"
 - 2 plain tortillas
 - 50g grated mozzarella
 - 6–8 slices pepperoni
-- 6–8 pickled jalapeño slices
 
 ## Method
 
@@ -44,7 +43,7 @@ time: "10m"
 
 5. **Add Toppings:**
    - Scatter mozzarella over each pizza.
-   - Add pepperoni slices and pickled jalapeños.
+   - Add pepperoni slices.
 
 6. **Bake:**
    - Bake for 6–8 minutes until the edges are crisp and golden, and the cheese has melted and is bubbling.
