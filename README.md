@@ -14,7 +14,7 @@ Split between savoury/sweet and then by type of food and ingredients!
 #### <img src="./icons/osrs-cooked-meat.png" width="20" height="20" style="vertical-align: middle;" alt="Fajitas icon" /> Fajitas
 - [Chicken Fajitas](savoury/Fajitas-Chicken.md) - Pan-fried chicken fajitas with peppers & onions
 - [Pork-Belly Fajitas](savoury/Fajitas-Pork-Belly.md) - Rich pork-belly fajitas with crisp edges
-- [Sausage Fajitas](savoury/Fajitas-Sausage.md) - Spicy sausage fajitas with peppers
+- [Sausage Fajitas](savoury/Fajitas-Sausage.md) - Spicy sausage fajitas with peppers, onions and corn
 
 #### <img src="./icons/pasta.png" width="20" height="20" style="vertical-align: middle;" alt="Pasta icon" /> Pasta
 - [Bolognese](savoury/Pasta-Bolognese.md) - Classic pasta sauce with minced beef
@@ -26,17 +26,17 @@ Split between savoury/sweet and then by type of food and ingredients!
 - [Gochujang Pork Belly](savoury/Gochujang-Pork-Belly.md) - Air-fried pork belly with spicy gochujang glaze
 - [Pasta Carbonara](savoury/Pasta-Carbonara.md) - Creamy egg and bacon pasta
 - [Pork-Belly Fajitas](savoury/Fajitas-Pork-Belly.md) - Rich pork-belly fajitas with crisp edges
-- [Sausage Fajitas](savoury/Fajitas-Sausage.md) - Spicy sausage fajitas with peppers
+- [Sausage Fajitas](savoury/Fajitas-Sausage.md) - Spicy sausage fajitas with peppers, onions and corn
 - [Stuffed Peppers](savoury/Stuffed-Peppers.md) - Bell peppers stuffed with rice and chicken
-- [Tortilla Pizza](savoury/Tortilla-Pizza.md) - Quick tortilla pizzas with pepperoni and jalapeños
-- [Tortilla Pizza — Stuffed Crust](savoury/Tortilla-Pizza-Stuffed-Crust.md)
+- [Tortilla Pizza](savoury/Tortilla-Pizza.md) - Quick tortilla pizzas with pepperoni
+- [Tortilla Pizza — Stuffed Crust](savoury/Tortilla-Pizza-Stuffed-Crust.md) - Quick Tortilla pizzas with sausage/cheese stuffed crust
 
 #### <img src="./icons/osrs-cabbage.png" width="20" height="20" style="vertical-align: middle;" alt="Veg icon" /> Veg
 - [Stuffed Peppers](savoury/Stuffed-Peppers.md) - Bell peppers stuffed with rice and chicken
 
 #### <img src="./icons/osrs-pizza.png" width="20" height="20" style="vertical-align: middle;" alt="Pizza icon" /> Pizza
-- [Tortilla Pizza](savoury/Tortilla-Pizza.md) - Quick tortilla pizzas with pepperoni and jalapeños
-- [Tortilla Pizza — Stuffed Crust](savoury/Tortilla-Pizza-Stuffed-Crust.md)
+- [Tortilla Pizza](savoury/Tortilla-Pizza.md) - Quick tortilla pizzas with pepperoni
+- [Tortilla Pizza — Stuffed Crust](savoury/Tortilla-Pizza-Stuffed-Crust.md) - Quick Tortilla pizzas with sausage/cheese stuffed crust
 
 ### Sweet
 
