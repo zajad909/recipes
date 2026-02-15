@@ -1,5 +1,7 @@
 # <img src="./icons/osrs-cooking.png" width="30" height="30" style="vertical-align: middle;" alt="beta icon" /> Dom's Recipes Repo!
 
+[![Regenerate README](https://github.com/zajad909/recipes/actions/workflows/regenerate-readme.yml/badge.svg)](https://github.com/zajad909/recipes/actions/workflows/regenerate-readme.yml)  [![Run generator](https://img.shields.io/badge/Run%20README-regenerate-blue)](https://github.com/zajad909/recipes/actions/workflows/regenerate-readme.yml)
+
 A collection of my favourite and some custom recipes
 
 Split between savoury/sweet and then by type of food and ingredients!

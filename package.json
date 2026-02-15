@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "index": "node scripts/generate-readme.js"
+    "index": "npx ts-node --transpile-only scripts/generate-readme.ts"
   },
   "repository": {
     "type": "git",
