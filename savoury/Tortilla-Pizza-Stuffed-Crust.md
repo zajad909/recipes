@@ -1,5 +1,5 @@
 ---
-title: "Tortilla Pizza — Stuffed Crust (Sausage Triangle)"
+title: "Tortilla Pizza — Stuffed Crust"
 category: "savoury"
 tags: ["pizza","tortilla","sausage","quick","snack", "lunch"]
 serves: 1
@@ -8,7 +8,6 @@ time: "20m"
 
 # Tortilla Pizza — Stuffed Crust (Triangle)
 
-*Serves 1 | 20m*
 
 ## Ingredients
 
@@ -16,7 +15,7 @@ time: "20m"
 - 1 large flour tortilla (burrito size)
 
 ### Stuffed crust
-- 3 thin pre-cooked sausages (chipolata size)
+- 3 thin sausages (chipolata size)
 - 3 chunks of mozerella/cheddar/
 
 ### Sauce & cheese
@@ -35,6 +34,10 @@ time: "20m"
 
 1. **Preheat & prepare:**
    - Heat the oven to 200°C (180°C fan). Line a baking tray with baking paper.
+
+1. **Cook the sausages for the Crust**
+    - Add 3 sausages per pizza to a pan over low heat
+    - Cook until cooked through and turning Gold
 
 2. **Form the sausage triangle (stuffed crust):**
    - Lay the tortilla flat. Place the 3 sausages in a triangle about 2–3 cm from the edge.
